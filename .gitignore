@@ -1,0 +1,6 @@
+/pyvenv
+data.json
+.env
+/.idea
+/__pycache__/
+*.pyc
